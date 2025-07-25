@@ -1,0 +1,6 @@
+.product-img {
+  max-width: 30px;
+  max-height: 30px;
+  object-fit: cover; /* عشان الصورة تتناسب بدون تشويه */
+  border-radius: 4px; /* لو عايز حواف دائرية */
+}
